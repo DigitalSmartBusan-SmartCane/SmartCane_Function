@@ -119,4 +119,3 @@ void loop() {
     Serial.println(seconds);
   }
 }
-
