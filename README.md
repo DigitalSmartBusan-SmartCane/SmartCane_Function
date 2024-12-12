@@ -16,3 +16,5 @@ jipang\window\wyolochotest.py
 
 11. 라즈베리파이에 연결된 초음파 센서를 통해 거리를 측정하고, 소켓 통신으로 수신된 객체 탐지 데이터를 음성 출력(TTS)으로 알려주는 코드
  jipang\yolochotest.py
+
+ 
